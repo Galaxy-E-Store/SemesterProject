@@ -11,7 +11,6 @@ import About from "./pages/About";
 
 function App() {
   const action = useNavigationType();
-  const
   const location = useLocation();
   const pathname = location.pathname;
 
