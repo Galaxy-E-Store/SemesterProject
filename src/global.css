@@ -13,6 +13,7 @@ body {
   margin: 0;
   line-height: normal;
 }
+root
 :root {
   /* fonts */
   --font-font-awesome-6-free: "Font Awesome 6 Free";
