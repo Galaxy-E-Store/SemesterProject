@@ -9,7 +9,7 @@ import {
   createTheme,
   StyledEngineProvider,
 } from "@mui/material";
-
+import
 import "./global.css";
 
 const muiTheme = createTheme();
