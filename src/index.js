@@ -11,7 +11,6 @@ import {
 } from "@mui/material";
 
 import "./global.css";
-impo
 
 const muiTheme = createTheme();
 
