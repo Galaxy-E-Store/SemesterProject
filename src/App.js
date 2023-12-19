@@ -13,7 +13,7 @@ function App() {
   const action = useNavigationType();
   const location = useLocation();
   const pathname = location.pathname;
-  use
+  
   useEffect(() => {
     if (action !== "POP") {
       window.scrollTo(0, 0);
